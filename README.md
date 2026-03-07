@@ -4,7 +4,7 @@ I'm a **Full Stack Engineer** (Level 2) from Punjab, India, focused on building 
 
 - 🔭 Currently working at **Cyber Awaaz** as a Full Stack Engineer (Level 2)
 - 💼 **Actively available for freelance React.js and full stack projects**
-- 💻 Tech I use daily: **React**, **TypeScript**, **JavaScript**, **HTML**, **CSS**, **REST APIs**
+- 💻 Tech I use daily: **React**, **TypeScript**, **JavaScript**, **REST APIs**, **Node.js**, **Express.js**, **Next.js**, **Nest.js**, **MySQL**, **PostgreSQ**
 - 🧩 Experience with admin panels, dashboards, multi-tenant apps, and CMS-style systems
 - 🌱 Always learning better architecture, clean code, and scalable frontend patterns
 - 📍 Based in **Zirakpur, Punjab, India**
