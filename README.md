@@ -37,7 +37,7 @@ Front-end social-style web interface built with HTML, CSS, and JavaScript.
 - Responsive Design | Component Architecture | State Management
 
 **Backend:**
-- Node.js | Express.js | RESTful APIs
+- Node.js | Express.js | Next.js | Nest.js | MySQL | PostgreSQL
 
 **Tools & Platforms:**
 - Git & GitHub | VS Code | Webpack
