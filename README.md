@@ -76,8 +76,8 @@ If you're looking for someone to help with:
 
 Feel free to reach out! I'm always interested in discussing new opportunities and collaborating on exciting projects.
 
-- 💼 **LinkedIn:** [Your LinkedIn Profile]
-- 📧 **Email:** [Your Email]
+- 💼 **LinkedIn:** [[Your LinkedIn Profile]](https://www.linkedin.com/in/er-anku-kumar/)
+- 📧 **Email:** ankukumar88722@gmail.com
 - 🌐 **Portfolio:** [Your Portfolio]
 - 💬 **Freelance Platforms:** Upwork | Freelancer | PeoplePerHour
 
