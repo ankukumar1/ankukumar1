@@ -4,7 +4,7 @@ I'm a **Full Stack Engineer** (Level 2) from Punjab, India, focused on building 
 
 - 🔭 Currently working at **Cyber Awaaz** as a Full Stack Engineer (Level 2)
 - 💼 **Actively available for freelance React.js and full stack projects**
-- 💻 Tech I use daily: **React**, **TypeScript**, **JavaScript**, **REST APIs**, **Node.js**, **Express.js**, **Next.js**, **Nest.js**, **MySQL**, **PostgreSQ**
+- 💻 Tech I use daily: **React**, **TypeScript**, **JavaScript**, **REST APIs**, **Node.js**, **Express.js**, **Next.js**, **Nest.js**, **MySQL**, **PostgreSQL**
 - 🧩 Experience with admin panels, dashboards, multi-tenant apps, and CMS-style systems
 - 🌱 Always learning better architecture, clean code, and scalable frontend patterns
 - 📍 Based in **Zirakpur, Punjab, India**
@@ -21,9 +21,24 @@ Management panel for higher-level configuration, analytics, and system control.
 
 ### 👥 Employee Management System
 Employee CRUD operations, role-based access control, and HR workflow management using TypeScript and React.
+**Repository:** [Employee-Management-System1](https://github.com/ankukumar1/Employee-Management-System1)
 
 ### 🏢 Apartment Tenant Management System
 Tenant records, payment tracking, unit management, and lease administration.
+**Repository:** [Apartment-Tenant](https://github.com/ankukumar1/Apartment-Tenant)
+
+### 🏫 CoachPro – Coaching Institute Management Platform
+Landing page and management platform for coaching institutes.
+**Repository:** [CoachPro-Coaching-Institute-Management-Platform-Landing-page](https://github.com/ankukumar1/CoachPro-Coaching-Institute-Management-Platform-Landing-page)
+
+### 📝 LuminaBlog – Professional Full-Stack Blog Platform
+Full-featured blog platform built with modern tech stack.
+**Repository:** [LuminaBlog---Professional-Full-Stack-Blog-Platform](https://github.com/ankukumar1/LuminaBlog---Professional-Full-Stack-Blog-Platform)
+
+### 🌐 PCOS Health Management System
+Full-stack application for PCOS health tracking and management.
+**Frontend:** [PCOS-frontend](https://github.com/ankukumar1/PCOS-frontend)
+**Backend:** [PCOS-backend](https://github.com/ankukumar1/PCOS-backend)
 
 ### 🌐 Social Website UI
 Front-end social-style web interface built with HTML, CSS, and JavaScript.
@@ -78,7 +93,7 @@ Feel free to reach out! I'm always interested in discussing new opportunities an
 
 - 💼 **LinkedIn:** https://www.linkedin.com/in/er-anku-kumar/
 - 📧 **Email:** ankukumar88722@gmail.com
-- 🌐 **Portfolio:** [Your Portfolio]
+- 🌐 **Portfolio:** https://ankukumardev.vercel.app/
 - 💬 **Freelance Platforms:** Upwork | Freelancer | PeoplePerHour
 
 ---
