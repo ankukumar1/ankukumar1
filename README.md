@@ -2,7 +2,7 @@
 
 <!-- Hero / Header -->
 <h1 style="margin:0">Anku Kumar</h1>
-<h3 style="margin-top:6px;margin-bottom:12px;font-weight:500">Full Stack Engineer (Level 2) — React • TypeScript • Node.js • Next.js • NestJS</h3>
+<h3 style="margin-top:6px;margin-bottom:12px;font-weight:500">Full Stack Engineer — React • TypeScript • Node.js • Next.js • NestJS</h3>
 
 <!-- Typing animation -->
 <img alt="typing" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&color=FFFFFF&width=760&height=40&lines=Building+scalable+SaaS+and+Enterprise+Applications;React+%7C+TypeScript+%7C+Next.js+%7C+Node.js+%7C+NestJS" />
@@ -28,7 +28,7 @@
 
 <!-- About -->
 ### About
-I am a results-driven Full Stack Engineer (Level 2) with 4+ years of professional experience building production-grade enterprise applications and SaaS products. I specialize in modern JavaScript ecosystems and architecting scalable frontend and backend systems using React, TypeScript, Next.js, Node.js and NestJS. I focus on clean code, performance optimization, robust REST APIs, and pragmatic system design for enterprise dashboards and admin platforms.
+I am a results-driven Full Stack Engineer with 4+ years of professional experience building production-grade enterprise applications and SaaS products. I specialize in modern JavaScript ecosystems and architecting scalable frontend and backend systems using React, TypeScript, Next.js, Node.js and NestJS. I focus on clean code, performance optimization, robust REST APIs, and pragmatic system design for enterprise dashboards and admin platforms.
 
 Location: Zirakpur, Punjab, India • Current: Cyber Awaaz  
 Availability: ✅ Open for Freelance • ✅ Open for Remote Jobs • ✅ Open to Full-Time Opportunities
@@ -137,7 +137,7 @@ Availability: ✅ Open for Freelance • ✅ Open for Remote Jobs • ✅ Open t
 
 ### Experience (timeline)
 <ul>
-  <li><strong>2024 – Present</strong> — Full Stack Engineer (Level 2), Cyber Awaaz — Frontend architecture, API integration, performance optimization, enterprise dashboard delivery.</li>
+  <li><strong>2024 – Present</strong> — Full Stack Engineer, Cyber Awaaz — Frontend architecture, API integration, performance optimization, enterprise dashboard delivery.</li>
   <li><strong>2021 – 2024</strong> — Senior Frontend / Full Stack contributor — Multiple SaaS and CMS projects (React + Node stacks).</li>
   <li><strong>2020 – 2021</strong> — Mid-Level Developer — Focused on component systems, responsive UI, and API-driven applications.</li>
   <li><strong>2019 – 2020</strong> — Early career — Web development, frontend foundations, and small SaaS features.</li>
