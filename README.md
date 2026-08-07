@@ -1,288 +1,402 @@
-# Hi there, I'm Anku Kumar 👋
+```markdown
+<div align="center">
 
-## Full Stack Engineer (Level 2) | React • TypeScript • Node.js • NestJS
+# 👋 Hi, I'm Anku Kumar
 
-I'm a **Full Stack Engineer (Level 2)** with **4+ years of experience** building scalable web applications, admin dashboards, SaaS platforms, and business management systems.
+### 🚀 Full Stack Engineer (Level 2) | React • TypeScript • Node.js • Next.js • NestJS
 
-Currently, I'm working at **Cyber Awaaz**, where I build production-ready applications using modern JavaScript technologies. I'm passionate about writing clean, maintainable code and creating intuitive user experiences.
+<p>
+Building scalable web applications, enterprise dashboards, and SaaS products with modern JavaScript technologies.
+</p>
 
-📍 **Location:** Zirakpur, Punjab, India
+<p>
+<a href="https://github.com/ankukumar1">
+<img src="https://komarev.com/ghpvc/?username=ankukumar1&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</a>
 
-💼 **Open to Freelance & Full-Time Opportunities**
+<a href="https://github.com/ankukumar1?tab=followers">
+<img src="https://img.shields.io/github/followers/ankukumar1?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/ankukumar1">
+<img src="https://img.shields.io/github/stars/ankukumar1?style=for-the-badge"/>
+</a>
+
+</p>
+
+<p>
+
+<a href="https://ankukumardev.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/er-anku-kumar/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:ankukumar88722@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+</div>
 
 ---
 
-# 🚀 About Me
+# 💫 About Me
 
-* 💻 Full Stack Engineer with 4+ years of professional experience
-* ⚛️ Specialized in React.js, TypeScript, Next.js, Node.js & NestJS
-* 🏗️ Experienced in designing scalable frontend architectures
-* 🔐 Strong understanding of Authentication, Authorization & RBAC
-* 📊 Built multiple Admin Panels, Dashboards and CMS platforms
-* 🚀 Passionate about clean code, performance optimization and reusable components
-* 🤝 Available for freelance React.js and Full Stack development
+💼 Full Stack Engineer (Level 2) at **Cyber Awaaz**
+
+📍 Based in **Zirakpur, Punjab, India**
+
+💻 4+ Years of Professional Experience
+
+🚀 Passionate about building scalable web applications
+
+🎯 Specialized in React ecosystem and modern frontend architecture
+
+⚡ Experienced in enterprise dashboards, CMS platforms, admin panels and SaaS products
+
+🌱 Currently learning
+
+- System Design
+- Scalable Architecture
+- Cloud Deployment
+- Performance Engineering
+
+💬 Ask me about
+
+- React
+- TypeScript
+- Next.js
+- Node.js
+- NestJS
+- REST APIs
+
+🤝 Open to
+
+- Freelance Projects
+- Remote Jobs
+- Full Time Opportunities
+- Startup Collaborations
 
 ---
 
-# 🛠 Tech Stack
+# 🚀 Tech Stack
 
 ## Frontend
 
-* React.js
-* TypeScript
-* JavaScript (ES6+)
-* Next.js
-* HTML5
-* CSS3
-* Responsive Design
-* Component Architecture
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css"/>
+
+</p>
 
 ## Backend
 
-* Node.js
-* Express.js
-* NestJS
+<p>
 
-## Databases
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs"/>
 
-* MySQL
-* PostgreSQL
+</p>
+
+## Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres"/>
+
+</p>
 
 ## Tools
 
-* Git
-* GitHub
-* VS Code
-* Postman
-* Chrome DevTools
-* Webpack
+<p>
 
-## Other Skills
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,webpack"/>
 
-* REST APIs
-* Authentication & Authorization
-* Role Based Access Control (RBAC)
-* Dashboard Development
-* Multi-Tenant Applications
-* API Integration
-* Performance Optimization
-* Debugging
-* Clean Architecture
+</p>
 
 ---
 
-# 💼 Featured Projects
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ankukumar1&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankukumar1&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=ankukumar1&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ankukumar1&theme=tokyonight&column=4"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ankukumar1&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 Professional Experience
+
+## Full Stack Engineer (Level 2)
+
+### Cyber Awaaz
+
+**Current**
+
+Working on production-grade enterprise applications using
+
+- React
+- TypeScript
+- Node.js
+- REST APIs
+- Admin Dashboards
+- Authentication Systems
+- CMS Platforms
+
+Responsibilities
+
+- Frontend Architecture
+- API Integration
+- Component Libraries
+- Performance Optimization
+- Code Reviews
+- Feature Development
+
+---
+
+# 🚀 Featured Projects
 
 ## 🧮 DZINE YOUR APP — Admin Panel
 
-A large-scale enterprise admin dashboard built with React and TypeScript.
-
-### Features
-
-* Role-Based Access Control
-* Dynamic Forms
-* Advanced Data Tables
-* Filters & Search
-* Reusable Components
-* API Integration
-* Dashboard Analytics
-
----
-
-## ⚙️ DZINE YOUR APP — Super Admin Panel
-
-Enterprise management platform for configuring organizations, analytics, permissions and system-wide settings.
+Enterprise-level admin dashboard built using React and TypeScript.
 
 ### Highlights
 
-* System Configuration
-* User Management
-* Analytics Dashboard
-* Permission Management
-* Multi-Level Administration
+- Role Based Access
+- Dynamic Forms
+- Advanced Tables
+- Analytics
+- Reusable Components
+- Dashboard
+- API Integration
+
+---
+
+## ⚙️ DZINE YOUR APP — Super Admin
+
+Centralized management platform.
+
+Features
+
+- Organization Management
+- User Permissions
+- Analytics
+- System Configuration
+- Multi-level Administration
 
 ---
 
 ## 👥 Employee Management System
 
-A complete employee management solution built using React and TypeScript.
+Complete HR Management Platform.
 
 ### Features
 
-* Employee CRUD
-* Authentication
-* Role Management
-* Dashboard
-* Search & Filtering
-* Responsive UI
+- Authentication
+- Employee CRUD
+- Dashboard
+- Search
+- Filters
+- Role Management
+- Responsive Design
 
-🔗 Repository:
+🔗 Repository
+
 https://github.com/ankukumar1/Employee-Management-System1
 
 ---
 
-## 🏢 Apartment Tenant Management System
+## 🏢 Apartment Tenant Management
 
-Property management application for landlords and apartment administrators.
+Property Management Platform.
 
 ### Features
 
-* Tenant Management
-* Lease Tracking
-* Payment Management
-* Unit Management
-* Reports
+- Tenant Records
+- Lease Management
+- Payment Tracking
+- Apartment Management
+- Reports
 
-🔗 Repository:
+🔗 Repository
+
 https://github.com/ankukumar1/Apartment-Tenant
 
 ---
 
-## 🏫 CoachPro — Coaching Institute Management Platform
+## 🏫 CoachPro
 
-Management platform designed for coaching institutes.
+Coaching Institute Management Platform.
 
 ### Features
 
-* Student Management
-* Teacher Management
-* Batch Management
-* Attendance
-* Dashboard
-* Landing Website
+- Student Management
+- Teacher Management
+- Attendance
+- Dashboard
+- Landing Website
+- Responsive UI
 
-🔗 Repository:
+🔗 Repository
+
 https://github.com/ankukumar1/CoachPro-Coaching-Institute-Management-Platform-Landing-page
 
 ---
 
 ## 📝 LuminaBlog
 
-Modern Full Stack Blogging Platform.
+Modern Blogging Platform.
 
 ### Features
 
-* Authentication
-* Rich Blog Editor
-* Categories
-* Comments
-* Responsive Design
-* REST APIs
+- Authentication
+- Rich Editor
+- Categories
+- Comments
+- REST APIs
+- Responsive Design
 
-🔗 Repository:
+🔗 Repository
+
 https://github.com/ankukumar1/LuminaBlog---Professional-Full-Stack-Blog-Platform
 
 ---
 
 ## ❤️ PCOS Health Management System
 
-Healthcare application built for PCOS management.
+Healthcare Application.
 
-### Features
+Frontend
 
-* User Dashboard
-* Health Tracking
-* Reports
-* API Integration
-* Responsive Design
-
-Frontend:
 https://github.com/ankukumar1/PCOS-frontend
 
-Backend:
+Backend
+
 https://github.com/ankukumar1/PCOS-backend
 
 ---
 
-## 🌐 Social Website UI
+# 💼 What I Build
 
-Responsive social networking interface built using HTML, CSS and JavaScript.
+✅ Enterprise Dashboards
 
----
+✅ Admin Panels
 
-# 📊 GitHub Statistics
+✅ CRM Systems
 
-Add these widgets to your profile:
+✅ CMS Platforms
 
-* GitHub Stats Card
-* GitHub Streak
-* Most Used Languages
-* Contribution Graph
-* Profile Trophy
-* Visitor Counter
+✅ SaaS Products
 
----
+✅ Business Applications
 
-# 🎯 Services I Offer
+✅ Multi Tenant Systems
 
-### React.js Development
+✅ REST APIs
 
-* Admin Panels
-* Dashboards
-* Business Applications
-* Landing Pages
-* CMS Systems
+✅ Authentication Systems
 
-### Full Stack Development
+✅ Role Based Access
 
-* REST APIs
-* Authentication
-* Database Design
-* Dashboard Applications
-* Enterprise Software
+✅ Responsive Websites
 
-### UI Development
-
-* Pixel Perfect UI
-* Responsive Design
-* Performance Optimization
-* Component Libraries
+✅ Internal Tools
 
 ---
 
-# 🌱 Currently Learning
+# 🎯 2026 Goals
 
-* System Design
-* Scalable Application Architecture
-* Advanced React Patterns
-* Performance Engineering
-* Cloud Deployment
-* CI/CD
+🚀 Build a production-grade SaaS
+
+⭐ Grow GitHub Portfolio
+
+🤝 Contribute to Open Source
+
+📚 Publish Technical Articles
+
+☁ Learn Cloud Architecture
+
+⚡ Master System Design
 
 ---
 
-# 🤝 Available For
+# 📈 Current Focus
 
-* React.js Projects
-* Frontend Development
-* Full Stack Development
-* SaaS Development
-* Dashboard Development
-* Long-Term Freelance Contracts
-* Remote Opportunities
+- React Performance
+- Enterprise Architecture
+- API Design
+- Design Systems
+- Scalable Frontend
+- Clean Code
+- TypeScript Best Practices
+
+---
+
+# 🤝 Let's Collaborate
+
+I'm available for
+
+- React.js Development
+- Full Stack Development
+- SaaS Development
+- Dashboard Development
+- Startup MVPs
+- Freelance Projects
+- Long-Term Contracts
 
 ---
 
 # 📬 Connect With Me
 
+🌐 Portfolio
+
+https://ankukumardev.vercel.app
+
 💼 LinkedIn
+
 https://www.linkedin.com/in/er-anku-kumar/
 
-🌐 Portfolio
-https://ankukumardev.vercel.app/
-
 📧 Email
-[ankukumar88722@gmail.com](mailto:ankukumar88722@gmail.com)
+
+ankukumar88722@gmail.com
 
 🐙 GitHub
+
 https://github.com/ankukumar1
 
 ---
 
-# 💡 Fun Fact
+<div align="center">
 
-I enjoy building scalable web applications, solving complex UI problems, designing reusable component systems, and continuously learning modern web technologies.
+### ⭐ Thanks for visiting my profile!
 
----
+If you like my work, consider giving a ⭐ to my repositories and following me on GitHub.
 
-⭐ If you like my work, consider following me on GitHub and exploring my repositories. I'm always excited to collaborate on impactful projects and innovative products.
+Let's build something amazing together! 🚀
+
+</div>
+```
