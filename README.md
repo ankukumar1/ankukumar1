@@ -48,11 +48,11 @@ Front-end social-style web interface built with HTML, CSS, and JavaScript.
 ## 🛠️ Skills & Technologies
 
 **Frontend:**
-- React.js | TypeScript | JavaScript (ES6+) | HTML5 | CSS3
+- React.js | TypeScript | JavaScript (ES6+) | HTML5 | CSS3 | Next.js
 - Responsive Design | Component Architecture | State Management
 
 **Backend:**
-- Node.js | Express.js | Next.js | Nest.js | MySQL | PostgreSQL
+- Node.js | Express.js | Nest.js | MySQL | PostgreSQL
 
 **Tools & Platforms:**
 - Git & GitHub | VS Code | Webpack
